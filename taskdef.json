@@ -17,5 +17,6 @@
     ],
     "cpu": "128",
     "memory": "256",
+    "networkMode": "awsvpc",
     
 
