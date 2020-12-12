@@ -16,7 +16,7 @@
         "FARGATE"
     ],
     "cpu": "128",
-    "memory": "256",
+    "memory": "512",
     "networkMode": "awsvpc",
     
 
